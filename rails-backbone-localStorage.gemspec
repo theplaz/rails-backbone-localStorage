@@ -7,5 +7,5 @@ Gem::Specification.new do |s|
   s.authors     = ["Michael Plasmeier"]
   s.email       = 'plaz@theplaz.com'
   s.files       = Dir["lib/**/*"] + Dir["vendor/**/*"] + ["MIT-LICENSE", "Rakefile", "README.md"] 
-  s.homepage    = 'https://github.com/theplaz/Backbone.localStorage'
+  s.homepage    = 'https://github.com/theplaz/rails-backbone-localStorage'
 end

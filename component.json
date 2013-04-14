@@ -1,6 +1,0 @@
-{
-  "name": "Backbone.localStorage",
-  "version": "1.1.0",
-  "main": "./backbone.localStorage.js",
-  "dependencies": {}
-}
